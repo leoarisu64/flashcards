@@ -1,23 +1,23 @@
 criaCartao(
     'Programação',
     'Como da Loop simples no Python?',
-    'Usando For e While'
+    'Usando For e While.'
 )
 
 criaCartao(
-    'C',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Jogos',
+    'Para que servem as cartas Tarô em Balatro?',
+    'São consumíveis que modificam o deck de 52 cartas.'
 )
 
 criaCartao(
     'Jogos',
     'Qual é considerado e a melhor carta de coringa em Balatro?',
-    'É considerado a carta de diagrama'
+    'É considerado a carta de diagrama.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi'
+    'Arte',
+    'Como são chamadas as gravuras tradicionais Japonesas?',
+    'Ukiyo-e.'
 )
